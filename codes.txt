@@ -1,0 +1,11 @@
+cd "foldername"
+cd ..  --- back into folder
+ls 
+pwd  --- present working directory 
+touch "filname.extension"
+clear
+
+git status
+git add .
+git commit -m "msg_here"
+git push -u origin master
